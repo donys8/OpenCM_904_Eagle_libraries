@@ -1,2 +1,1 @@
-# Eagle_libraries
-Eagle PCB Libraries
+# OpenCM 9.04 Eagle library
